@@ -1,0 +1,485 @@
+2023-03-17 16:39:07,465 ERROR 89624 [-/127.0.0.1/-/7ms GET /api/addTask] nodejs.TypeError: ctx.validate is not a function
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 89624
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 16:42:59,966 WARN 90525 [-/127.0.0.1/-/7ms GET /api/addTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"expire","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"},{"message":"required","field":"auther","code":"missing_field"}]
+pid: 90525
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 16:46:44,919 WARN 91444 [-/127.0.0.1/-/6ms GET /api/addTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"expire","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"},{"message":"required","field":"auther","code":"missing_field"}]
+pid: 91444
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 16:51:50,170 WARN 92492 [-/127.0.0.1/-/44588ms GET /api/addTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"title","code":"missing_field"},{"message":"required","field":"expire","code":"missing_field"},{"message":"required","field":"content","code":"missing_field"},{"message":"required","field":"auther","code":"missing_field"}]
+pid: 92492
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 16:57:49,112 WARN 92492 [-/127.0.0.1/-/41ms POST /api/addTask] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-03-17 16:57:49,114 WARN 92492 [-/127.0.0.1/-/42ms POST /api/addTask] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-bodyparser/index.js:91:11)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/meta.js:12:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/application.js:242:16
+message: "missing csrf token"
+pid: 92492
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 16:59:02,250 WARN 94519 [-/127.0.0.1/-/20ms POST /api/addTask] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-03-17 16:59:02,252 WARN 94519 [-/127.0.0.1/-/22ms POST /api/addTask] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-bodyparser/index.js:91:11)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/meta.js:12:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/application.js:242:16
+message: "invalid csrf token"
+pid: 94519
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:13:37,080 WARN 97975 [-/127.0.0.1/-/26315ms POST /api/addTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"should be a string","code":"invalid","field":"expire"}]
+pid: 97975
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:31:24,863 WARN 2030 [-/127.0.0.1/-/197609ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:23:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"pageNo","code":"missing_field"},{"message":"required","field":"pageSize","code":"missing_field"},{"message":"required","field":"status","code":"missing_field"}]
+pid: 2030
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:31:29,305 WARN 2870 [-/127.0.0.1/-/7ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:23:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"pageNo","code":"missing_field"},{"message":"required","field":"pageSize","code":"missing_field"},{"message":"required","field":"status","code":"missing_field"}]
+pid: 2870
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:31:35,002 WARN 2870 [-/127.0.0.1/-/2ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:23:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"pageNo","code":"missing_field"},{"message":"required","field":"pageSize","code":"missing_field"},{"message":"required","field":"status","code":"missing_field"}]
+pid: 2870
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:31:45,740 WARN 2870 [-/127.0.0.1/-/2ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:23:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"pageNo","code":"missing_field"},{"message":"required","field":"pageSize","code":"missing_field"},{"message":"required","field":"status","code":"missing_field"}]
+pid: 2870
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:32:12,105 WARN 3100 [-/127.0.0.1/-/7ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:23:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"pageNo","code":"missing_field"},{"message":"required","field":"pageSize","code":"missing_field"},{"message":"required","field":"status","code":"missing_field"}]
+pid: 3100
+hostname: ZBMac-C02D41XPM
+
+2023-03-17 17:47:09,788 ERROR 6235 [-/127.0.0.1/-/122003ms GET /api/queryTaskList?pageNo=1&pageSize=10] nodejs.ReferenceError: currentPage is not defined
+    at TaskService.getTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/service/task.js:32:88)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async HomeController.queryTaskList (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:24:17)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:7
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-bodyparser/index.js:91:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-static-cache/index.js:41:56
+    at async notfound (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/app/middleware/meta.js:12:5)
+    at async /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/application.js:242:16
+    at async asyncCtxStorage (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/application.js:241:7)
+
+pid: 6235
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 10:40:29,001 ERROR 28636 [-/127.0.0.1/-/20ms POST /api/editTask] nodejs.TypeError: Cannot read property 'find' of undefined
+    at TaskService.editTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/service/task.js:39:41)
+    at HomeController.editTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:30:41)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+
+pid: 28636
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 14:09:30,808 WARN 78803 [-/127.0.0.1/-/14ms POST /api/updateTaskStatus] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.updateTaskStatus (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:36:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"should be a string","code":"invalid","field":"status"}]
+pid: 78803
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 14:18:44,421 WARN 81049 [-/127.0.0.1/-/6ms POST /api/deleteTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.deleteTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:47:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"_id","code":"missing_field"}]
+pid: 81049
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 14:19:15,899 WARN 81049 [-/127.0.0.1/-/3ms POST /api/deleteTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.deleteTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:47:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"_id","code":"missing_field"}]
+pid: 81049
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 14:20:01,681 WARN 81049 [-/127.0.0.1/-/3ms POST /api/deleteTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.deleteTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:47:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"_id","code":"missing_field"}]
+pid: 81049
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 14:21:23,240 WARN 81049 [-/127.0.0.1/-/3ms POST /api/deleteTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.deleteTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:47:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"_id","code":"missing_field"}]
+pid: 81049
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 15:18:56,390 WARN 95442 [-/127.0.0.1/-/25ms POST /api/addTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.addTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:8:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"exipre","code":"missing_field"}]
+pid: 95442
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 15:20:56,647 ERROR 95442 [-/127.0.0.1/-/13ms POST /api/addTask] nodejs.ValidationError: Task validation failed: expire: Path `expire` is required.
+    at model.Document.invalidate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/mongoose/lib/document.js:2782:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/mongoose/lib/document.js:2574:17
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/mongoose/lib/schematype.js:1273:9
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+errors: {"expire":{"name":"ValidatorError","message":"Path `expire` is required.","properties":{"message":"Path `expire` is required.","type":"required","path":"expire"},"kind":"required","path":"expire"}}
+_message: "Task validation failed"
+pid: 95442
+hostname: ZBMac-C02D41XPM
+
+2023-03-20 15:37:00,623 WARN 99005 [-/127.0.0.1/-/26ms POST /api/editTask] nodejs.UnprocessableEntityError: Validation Failed
+    at Object.throw (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.validate (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/app/extend/context.js:14:17)
+    at HomeController.editTask (/Users/lizhanqiang1/Documents/learn/egg-example/app/controller/home.js:22:9)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/lizhanqiang1/Documents/learn/egg-example/app/middleware/error_handler.js:6:13
+    at dispatch (/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "Validation Failed"
+code: "invalid_param"
+errors: [{"message":"required","field":"expire","code":"missing_field"}]
+pid: 99005
+hostname: ZBMac-C02D41XPM
+

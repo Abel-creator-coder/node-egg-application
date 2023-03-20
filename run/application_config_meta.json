@@ -1,0 +1,321 @@
+{
+  "keys": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+      "type": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+    "protocolWhiteList": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "middleware": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+  "mongoose": {
+    "url": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+    "options": {
+      "autoReconnect": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+      "reconnectTries": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js",
+      "bufferMaxEntries": "/Users/lizhanqiang1/Documents/learn/egg-example/config/config.default.js"
+    },
+    "plugins": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultParamCharset": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "validate": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-validate/config/config.default.js",
+  "env": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "type": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,333 @@
+2023-03-17 15:27:42,929 INFO 72294 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:27:42,929 INFO 72294 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:27:42,929 INFO 72294 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:27:44,166 INFO 72280 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46935837ms at 2023-03-18 04:30:00.003
+2023-03-17 15:27:44,166 INFO 72280 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30735834ms at 2023-03-18 00:00:00.000
+2023-03-17 15:27:44,166 INFO 72280 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30736834ms at 2023-03-18 00:00:01.000
+2023-03-17 15:37:40,981 INFO 74714 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46339022ms at 2023-03-18 04:30:00.002
+2023-03-17 15:37:40,981 INFO 74714 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30139019ms at 2023-03-18 00:00:00.000
+2023-03-17 15:37:40,981 INFO 74714 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30140019ms at 2023-03-18 00:00:01.000
+2023-03-17 15:37:40,710 INFO 74727 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:37:40,710 INFO 74727 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:37:40,710 INFO 74727 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:38:16,215 INFO 74867 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:38:16,215 INFO 74867 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:38:16,215 INFO 74867 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:38:23,322 INFO 74901 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:38:23,323 INFO 74901 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:38:23,323 INFO 74901 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:38:30,479 INFO 74926 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:38:30,479 INFO 74926 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:38:30,479 INFO 74926 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:45:18,384 INFO 76615 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:45:18,384 INFO 76615 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:45:18,384 INFO 76615 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:46:35,185 INFO 76927 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:46:35,185 INFO 76927 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:46:35,185 INFO 76927 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:48:10,626 INFO 77308 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:48:10,626 INFO 77308 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:48:10,626 INFO 77308 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:49:09,096 INFO 77530 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:49:09,096 INFO 77530 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:49:09,096 INFO 77530 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:49:22,558 INFO 77608 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:49:22,558 INFO 77608 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:49:22,558 INFO 77608 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:53:36,679 INFO 78594 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:53:36,679 INFO 78594 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:53:36,679 INFO 78594 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:53:57,460 INFO 78680 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:53:57,460 INFO 78680 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:53:57,460 INFO 78680 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:54:26,646 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:54:26,646 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:54:26,646 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 15:54:34,050 INFO 78834 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 15:54:34,050 INFO 78834 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 15:54:34,050 INFO 78834 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:06:53,521 INFO 81823 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:06:53,521 INFO 81823 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:06:53,521 INFO 81823 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:07:33,278 INFO 81989 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:07:33,278 INFO 81989 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:07:33,278 INFO 81989 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:07:44,219 INFO 82034 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:07:44,219 INFO 82034 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:07:44,219 INFO 82034 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:08:30,011 INFO 82232 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:08:30,011 INFO 82232 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:08:30,011 INFO 82232 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:08:49,268 INFO 82315 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44470734ms at 2023-03-18 04:30:00.002
+2023-03-17 16:08:49,268 INFO 82315 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28270732ms at 2023-03-18 00:00:00.000
+2023-03-17 16:08:49,269 INFO 82315 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28271732ms at 2023-03-18 00:00:01.001
+2023-03-17 16:08:48,982 INFO 82322 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:08:48,982 INFO 82322 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:08:48,982 INFO 82322 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:12:49,202 INFO 83260 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:12:49,202 INFO 83260 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:12:49,202 INFO 83260 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:13:15,131 INFO 83367 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:13:15,131 INFO 83367 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:13:15,131 INFO 83367 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:13:28,980 INFO 83443 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:13:28,981 INFO 83443 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:13:28,981 INFO 83443 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:13:29,343 INFO 83434 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44190660ms at 2023-03-18 04:30:00.003
+2023-03-17 16:13:29,343 INFO 83434 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27990657ms at 2023-03-18 00:00:00.000
+2023-03-17 16:13:29,343 INFO 83434 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27991657ms at 2023-03-18 00:00:01.000
+2023-03-17 16:13:44,001 INFO 83497 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:13:44,001 INFO 83497 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:13:44,001 INFO 83497 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:14:21,486 INFO 83648 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44138516ms at 2023-03-18 04:30:00.002
+2023-03-17 16:14:21,487 INFO 83648 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27938514ms at 2023-03-18 00:00:00.001
+2023-03-17 16:14:21,487 INFO 83648 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27939513ms at 2023-03-18 00:00:01.000
+2023-03-17 16:14:21,188 INFO 83655 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:14:21,188 INFO 83655 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:14:21,188 INFO 83655 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:35:14,626 INFO 88714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:35:14,626 INFO 88714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:35:14,626 INFO 88714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:35:15,107 INFO 88706 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42884895ms at 2023-03-18 04:30:00.002
+2023-03-17 16:35:15,108 INFO 88706 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26684893ms at 2023-03-18 00:00:00.001
+2023-03-17 16:35:15,108 INFO 88706 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26685892ms at 2023-03-18 00:00:01.000
+2023-03-17 16:37:37,129 INFO 89281 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:37:37,129 INFO 89281 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:37:37,129 INFO 89281 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:38:12,569 INFO 89419 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:38:12,569 INFO 89419 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:38:12,569 INFO 89419 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:38:35,975 INFO 89522 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:38:35,975 INFO 89522 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:38:35,975 INFO 89522 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:39:03,673 INFO 89624 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:39:03,673 INFO 89624 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:39:03,673 INFO 89624 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:42:42,871 INFO 90525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:42:42,871 INFO 90525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:42:42,871 INFO 90525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:42:43,162 INFO 90516 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42436841ms at 2023-03-18 04:30:00.003
+2023-03-17 16:42:43,162 INFO 90516 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26236838ms at 2023-03-18 00:00:00.000
+2023-03-17 16:42:43,162 INFO 90516 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26237838ms at 2023-03-18 00:00:01.000
+2023-03-17 16:44:10,040 INFO 90869 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:44:10,040 INFO 90869 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:44:10,040 INFO 90869 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:44:26,165 INFO 90932 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:44:26,165 INFO 90932 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:44:26,165 INFO 90932 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:46:37,107 INFO 91444 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:46:37,107 INFO 91444 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:46:37,107 INFO 91444 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:50:55,604 INFO 92480 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41944398ms at 2023-03-18 04:30:00.002
+2023-03-17 16:50:55,605 INFO 92480 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25744395ms at 2023-03-18 00:00:00.000
+2023-03-17 16:50:55,605 INFO 92480 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25745395ms at 2023-03-18 00:00:01.000
+2023-03-17 16:50:54,897 INFO 92492 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:50:54,897 INFO 92492 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:50:54,897 INFO 92492 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 16:58:55,250 INFO 94509 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41464753ms at 2023-03-18 04:30:00.003
+2023-03-17 16:58:55,251 INFO 94509 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25264750ms at 2023-03-18 00:00:00.001
+2023-03-17 16:58:55,251 INFO 94509 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25265749ms at 2023-03-18 00:00:01.000
+2023-03-17 16:58:54,585 INFO 94519 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 16:58:54,585 INFO 94519 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 16:58:54,585 INFO 94519 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:00:22,831 INFO 94862 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:00:22,831 INFO 94862 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:00:22,831 INFO 94862 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:01:02,685 INFO 95028 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41337318ms at 2023-03-18 04:30:00.003
+2023-03-17 17:01:02,685 INFO 95028 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25137315ms at 2023-03-18 00:00:00.000
+2023-03-17 17:01:02,686 INFO 95028 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25138314ms at 2023-03-18 00:00:01.000
+2023-03-17 17:01:02,124 INFO 95045 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:01:02,124 INFO 95045 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:01:02,124 INFO 95045 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:12:56,470 INFO 97914 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:12:56,470 INFO 97914 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:12:56,470 INFO 97914 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:13:05,250 INFO 97964 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40614752ms at 2023-03-18 04:30:00.002
+2023-03-17 17:13:05,251 INFO 97964 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24414749ms at 2023-03-18 00:00:00.000
+2023-03-17 17:13:05,251 INFO 97964 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24415749ms at 2023-03-18 00:00:01.000
+2023-03-17 17:13:04,827 INFO 97975 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:13:04,827 INFO 97975 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:13:04,827 INFO 97975 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:14:19,883 INFO 98267 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:14:19,883 INFO 98267 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:14:19,883 INFO 98267 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:15:19,373 INFO 98505 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:15:19,373 INFO 98505 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:15:19,373 INFO 98505 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:15:23,599 INFO 98525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:15:23,599 INFO 98525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:15:23,599 INFO 98525 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:16:07,704 INFO 98709 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:16:07,704 INFO 98709 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:16:07,704 INFO 98709 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:23:25,386 INFO 667 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:23:25,386 INFO 667 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:23:25,386 INFO 667 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:24:25,312 INFO 1060 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:24:25,312 INFO 1060 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:24:25,312 INFO 1060 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:25:11,449 INFO 1271 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:25:11,449 INFO 1271 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:25:11,449 INFO 1271 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:27:47,054 INFO 1927 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39732948ms at 2023-03-18 04:30:00.002
+2023-03-17 17:27:47,054 INFO 1927 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23532946ms at 2023-03-18 00:00:00.000
+2023-03-17 17:27:47,055 INFO 1927 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23533946ms at 2023-03-18 00:00:01.001
+2023-03-17 17:27:46,518 INFO 1952 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:27:46,518 INFO 1952 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:27:46,518 INFO 1952 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:31:17,142 INFO 2870 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:31:17,142 INFO 2870 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:31:17,142 INFO 2870 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:28:06,314 INFO 2030 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:28:06,314 INFO 2030 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:28:06,314 INFO 2030 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:32:10,896 INFO 3087 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39469107ms at 2023-03-18 04:30:00.003
+2023-03-17 17:32:10,896 INFO 3087 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23269104ms at 2023-03-18 00:00:00.000
+2023-03-17 17:32:10,897 INFO 3087 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23270104ms at 2023-03-18 00:00:01.001
+2023-03-17 17:32:10,429 INFO 3100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:32:10,429 INFO 3100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:32:10,429 INFO 3100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:33:08,237 INFO 3343 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:33:08,237 INFO 3343 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:33:08,237 INFO 3343 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:45:03,987 INFO 6215 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38696016ms at 2023-03-18 04:30:00.003
+2023-03-17 17:45:03,987 INFO 6215 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22496013ms at 2023-03-18 00:00:00.000
+2023-03-17 17:45:03,988 INFO 6215 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22497013ms at 2023-03-18 00:00:01.001
+2023-03-17 17:45:03,415 INFO 6235 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:45:03,415 INFO 6235 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:45:03,415 INFO 6235 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:46:49,533 INFO 6647 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:46:49,533 INFO 6647 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:46:49,534 INFO 6647 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:47:49,561 INFO 6891 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38530442ms at 2023-03-18 04:30:00.002
+2023-03-17 17:47:49,561 INFO 6891 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22330439ms at 2023-03-18 00:00:00.000
+2023-03-17 17:47:49,561 INFO 6891 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22331439ms at 2023-03-18 00:00:01.000
+2023-03-17 17:47:49,006 INFO 6909 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:47:49,006 INFO 6909 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:47:49,006 INFO 6909 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:49:37,041 INFO 7423 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:49:37,041 INFO 7423 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:49:37,041 INFO 7423 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:53:45,984 INFO 8476 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:53:45,984 INFO 8476 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:53:45,984 INFO 8476 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:57:32,868 INFO 9390 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:57:32,868 INFO 9390 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:57:32,868 INFO 9390 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:57:36,868 INFO 9410 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:57:36,868 INFO 9410 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:57:36,868 INFO 9410 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:58:09,394 INFO 9546 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:58:09,394 INFO 9546 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:58:09,394 INFO 9546 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 17:58:22,587 INFO 9599 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37897415ms at 2023-03-18 04:30:00.002
+2023-03-17 17:58:22,588 INFO 9599 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21697412ms at 2023-03-18 00:00:00.000
+2023-03-17 17:58:22,588 INFO 9599 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21698412ms at 2023-03-18 00:00:01.000
+2023-03-17 17:58:22,081 INFO 9616 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 17:58:22,081 INFO 9616 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 17:58:22,081 INFO 9616 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 18:15:11,651 INFO 13714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 18:15:11,651 INFO 13714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 18:15:11,651 INFO 13714 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 18:16:18,217 INFO 13996 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 18:16:18,217 INFO 13996 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 18:16:18,217 INFO 13996 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 18:16:29,527 INFO 14067 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-17 18:16:29,527 INFO 14067 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-17 18:16:29,527 INFO 14067 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-17 18:16:30,020 INFO 14044 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 36809983ms at 2023-03-18 04:30:00.003
+2023-03-17 18:16:30,020 INFO 14044 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 20609980ms at 2023-03-18 00:00:00.000
+2023-03-17 18:16:30,021 INFO 14044 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 20610979ms at 2023-03-18 00:00:01.000
+2023-03-20 10:05:06,899 INFO 20148 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:05:06,899 INFO 20148 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:05:06,899 INFO 20148 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:05:08,388 INFO 20131 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66291615ms at 2023-03-21 04:30:00.003
+2023-03-20 10:05:08,389 INFO 20131 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50091611ms at 2023-03-21 00:00:00.000
+2023-03-20 10:05:08,390 INFO 20131 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50092611ms at 2023-03-21 00:00:01.001
+2023-03-20 10:30:04,747 INFO 26234 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:30:04,747 INFO 26234 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:30:04,747 INFO 26234 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:30:39,591 INFO 26372 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:30:39,591 INFO 26372 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:30:39,591 INFO 26372 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:31:23,295 INFO 26548 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:31:23,295 INFO 26548 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:31:23,295 INFO 26548 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:32:24,168 INFO 26793 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:32:24,168 INFO 26793 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:32:24,168 INFO 26793 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:37:22,318 INFO 27984 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:37:22,318 INFO 27984 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:37:22,318 INFO 27984 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:39:49,892 INFO 28636 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:39:49,892 INFO 28636 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:39:49,892 INFO 28636 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 10:41:17,969 INFO 29004 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 10:41:17,969 INFO 29004 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 10:41:17,969 INFO 29004 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:06:46,936 INFO 78100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:06:46,936 INFO 78100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:06:46,936 INFO 78100 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:07:33,250 INFO 78297 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:07:33,251 INFO 78297 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:07:33,251 INFO 78297 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:07:48,184 INFO 78353 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:07:48,185 INFO 78353 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:07:48,185 INFO 78353 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:08:27,676 INFO 78523 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:08:27,676 INFO 78523 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:08:27,676 INFO 78523 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:08:58,843 INFO 78723 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:08:58,843 INFO 78723 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:08:58,843 INFO 78723 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:09:15,130 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:09:15,130 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:09:15,130 INFO 78803 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:09:15,501 INFO 78790 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51644502ms at 2023-03-21 04:30:00.002
+2023-03-20 14:09:15,501 INFO 78790 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35444499ms at 2023-03-21 00:00:00.000
+2023-03-20 14:09:15,501 INFO 78790 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35445499ms at 2023-03-21 00:00:01.000
+2023-03-20 14:09:55,395 INFO 78960 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:09:55,395 INFO 78960 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:09:55,395 INFO 78960 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:13:05,061 INFO 79724 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:13:05,061 INFO 79724 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:13:05,061 INFO 79724 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:14:05,783 INFO 79987 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:14:05,783 INFO 79987 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:14:05,783 INFO 79987 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:14:29,780 INFO 80090 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:14:29,780 INFO 80090 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:14:29,780 INFO 80090 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:15:33,190 INFO 80349 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:15:33,190 INFO 80349 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:15:33,190 INFO 80349 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:16:51,258 INFO 80663 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:16:51,258 INFO 80663 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:16:51,258 INFO 80663 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 14:18:27,893 INFO 81049 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 14:18:27,893 INFO 81049 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 14:18:27,893 INFO 81049 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:18:15,867 INFO 95442 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:18:15,867 INFO 95442 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:18:15,867 INFO 95442 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:21:50,274 INFO 96385 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:21:50,274 INFO 96385 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:21:50,274 INFO 96385 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:23:30,667 INFO 96779 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:23:30,667 INFO 96779 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:23:30,667 INFO 96779 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:31:52,760 INFO 98843 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:31:52,760 INFO 98843 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:31:52,760 INFO 98843 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:32:30,503 INFO 99005 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:32:30,503 INFO 99005 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:32:30,503 INFO 99005 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:37:34,475 INFO 493 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:37:34,475 INFO 493 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:37:34,475 INFO 493 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-20 15:57:07,974 INFO 5759 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45172028ms at 2023-03-21 04:30:00.002
+2023-03-20 15:57:07,975 INFO 5759 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28972026ms at 2023-03-21 00:00:00.001
+2023-03-20 15:57:07,975 INFO 5759 [Timer] /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28973025ms at 2023-03-21 00:00:01.000
+2023-03-20 15:57:07,253 INFO 5774 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-20 15:57:07,253 INFO 5774 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-20 15:57:07,253 INFO 5774 [egg-schedule]: register schedule /Users/lizhanqiang1/Documents/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
