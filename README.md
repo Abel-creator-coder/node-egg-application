@@ -6,7 +6,7 @@
 
 <!-- add docs here for user -->
 
-see [egg docs][egg] for more detail.
+this is a mode-egg application designed by myself, you can use it in your project as a template.it has completed five basic functional apis: addTask\editTask\updateTask\deleteTask\queryTaskList.
 
 ### Development
 
@@ -30,5 +30,4 @@ $ npm stop
 删除任务：'/api/deleteTask'
 获取任务列表：'/api/queryTaskList'
 
-具体规范的接口文档详细沟通
 
